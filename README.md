@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Kenny  
 
-<!--
-**KennyVaneetvelde/KennyVaneetvelde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **15+ Years of Experience** crafting maintainable software solutions with **high-quality standards.**  
+⚡ **Creator of [Atomic Agents](https://github.com/KennyVaneetvelde/atomic_agents)** – A framework for building AI Agents with **full programmatic control, minimal abstraction,** and **zero confusion.**  
+❤️ Lover of **Quality Code** and **Good Architecture** built on **Solid Design Patterns.**  
+📝 Writing about all things **AI** on [Medium](https://medium.com/@kenny_v).  
 
-Here are some ideas to get you started:
+## 💡 Featured Project  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**Atomic Agents**](https://github.com/KennyVaneetvelde/atomic_agents)  
+A modular framework for building agentic AI with control, flexibility, and developer ownership.  
+
+## 🌱 Currently Exploring  
+I’m always enhancing **Atomic Agents** – experimenting with new features and ideas to push the boundaries of agentic AI systems.  
+Currently experimenting a lot with **Multi-Agent Systems**, **Long-Term Memory**, **Custom Fine-Tuned Local Models** and more!
+
+## ✨ Support My Work  
+If you love what I do and want to support me, you can [**buy me a coffee**](https://www.paypal.me/KennyVaneetvelde) ☕. Your support goes a long way in helping me continue building open-source tools and advancing the AI community!  
+
+## 🌐 Let's Connect!  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kennyvaneetvelde)  
+- 📝 [Medium](https://medium.com/@kenny_v)  
+
+Thanks for stopping by! 🚀
