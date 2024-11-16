@@ -18,7 +18,7 @@ Currently experimenting a lot with **Multi-Agent Systems**, **Long-Term Memory**
 If you love what I do and want to support me, you can [**buy me a coffee**](https://www.paypal.me/KennyVaneetvelde) ☕. Your support goes a long way in helping me continue building open-source tools and advancing the AI community!  
 
 ## 🌐 Let's Connect!  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kennyvaneetvelde)  
-- 📝 [Medium](https://medium.com/@kenny_v)  
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/kennyvaneetvelde)  
+- 📝 Read my stuff on [Medium](https://medium.com/@kenny_v)  
 
 Thanks for stopping by! 🚀
