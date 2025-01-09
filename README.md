@@ -5,8 +5,8 @@
 ❤️ Lover of **Quality Code** and **Good Architecture** built on **Solid Design Patterns.**  
 📝 Writing about all things **AI** on [Medium](https://medium.com/@kenny_v).  
 
-## ✨ Support My Work  
-If you love what I do and want to support me, please consider [**donating**](https://www.paypal.me/KennyVaneetvelde). Your support goes a very long way in helping me continue building open-source tools and advancing the AI community!  
+## ✨ [Support My Work](https://www.paypal.me/KennyVaneetvelde)
+If you love what I do and want to support me, please consider [**donating**](https://www.paypal.me/KennyVaneetvelde). Your support is very deeply appreciated & goes a very long way in helping me continue building open-source tools and advancing the AI community!  
 
 
 ## 💡 Featured Projects  
